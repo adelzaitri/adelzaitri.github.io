@@ -1,2 +1,2 @@
 # adelzaitri.github.io
-my page
+Github page
