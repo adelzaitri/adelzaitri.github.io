@@ -1,5 +1,5 @@
 # Data Science Now
-Example data science portfolio
+My experimental data science portfolio
 
 # [Project 1: Data Science Porject 1](https://github.com/adelzaitri/data-science-real-estate-nyc-units) 
 * Description for Project 1
