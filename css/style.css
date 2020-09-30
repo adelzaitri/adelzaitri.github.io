@@ -63,11 +63,32 @@ body {
   padding: 20px;
 }
 
+/* Blog image */
+.blogimg {
+  background-color: #aaa;
+  width: 40%;
+  padding: 20px;
+}
+
 /* Add a card effect for articles */
 .card {
   background-color: white;
   padding: 20px;
   margin-top: 20px;
+}
+
+.card-centered {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Add a card effect for articles */
+.blog-post {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  text-align: center;
 }
 
 /* Clear floats after the columns */
