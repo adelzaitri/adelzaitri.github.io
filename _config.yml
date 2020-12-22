@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Adel Zaitri"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Software Engineer | Data Science"
   location         : "Montreal, Quebec"
   employer         :
@@ -99,7 +99,7 @@ author:
   github           : "adelzaitri"
   google_plus      :
   keybase          :
-  instagram        : "adelzaitri"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "adelzaitri"

@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Particle Swarm Optimization-Based Neural Network for Predicting Fatigue Strength in Composite Laminates of Wind Turbine Blades"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper is about Particle Swarm Optimization-Based Neural Network for Predicting Fatigue Strength in Composite Laminates of Wind Turbine Blades.'
 date: 2010-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'

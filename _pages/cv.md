@@ -9,51 +9,55 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Summary
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Software Developer and Architect with over 7 years of experience in enabling data with Restful APIs, data pipelines and migrations.
+* Data: Experience in data migration ETL (MuleSoft), data pipelines for streaming/loads/batches, Oracle PL/SQL Development, Salesforce SOQL queries, NoSQL databases.
+* Software Development: Software Developer with expertise in Java, API management life-cycle (REST), middleware integration (PaaS), Python 3.
+* Deep Learning: Research publications on the application of Artificial Neural Networks. Languages: Matlab, Python Pandas and NumPy, Java DeelpLearning4j.
+* Software Architecture: Technology Architect with expertise in Platform Architecture (MuleSoft PaaS), Middleware systems integration (SAP, Salesforce).
+* Courses: (Ongoing) Applied Data Science with Python on Coursera.
+* Certifications: Certified Java OCA (Java 8), Salesforce Developer I, MuleSoft Platform Architect, API Design and MuleSoft Development (Mule 4), Accenture Certified Architect.
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2018 - Now: Technology Architect and Developer
+  * Accenture, Montreal, Quebec, Canada
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2015-2018: Senior Software Developer
+  * Thinking Capital, Montreal, Quebec, Canada
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
+
+* 2013-2014: Systems Engineer
+  * Tata Consultancy Services, Mumbai Area, India
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* 2012-2013: Technical Sales Engineer
+  * Spraying Systems Co., Greater Chicago Area, USA
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+ 
+* Summer 2010: Research Intern
+  * Nuclear Research Center of Birine, Algeria
+  * Duties included: Artificial Neural Networks Modelling and Development:
+    * Developed Neural Network models.
+    * Designed programs for predicting and detecting the faults using AI.
+
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2005 - 2008: B.S in Technology , Ecole Nationale Préparatoire aux Etudes d'Ingéniorat, Algiers, Algeria.
+* 2008-2011: Diploma of Engineer in Electrical Engineering, Ecole Nationale Polytechnique d'Alger, Algeria.
+* 2014-2015: M.S. in Electrical Engineering, University of Djelfa, Algeria.
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
