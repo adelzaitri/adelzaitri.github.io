@@ -21,7 +21,7 @@ Why
 The goal of the challenge is to gain further knowledge towards becoming a Data Scientist.
 
 
-![Applied Data Science with Python Specialization Certificate](/images/certificate_applied_data_science_with_python.JPG)
+![Applied Data Science with Python Specialization Certificate](/images/certificate_applied_data_science_with_python.jpg)
 
 How
 ======
