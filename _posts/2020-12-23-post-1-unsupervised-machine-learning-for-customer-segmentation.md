@@ -13,16 +13,19 @@ What
 ======
 This is part of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
 
-For day 2, I worked on a project that focuses on extracting insights related to bank customers and clustering the customers into different segments. The work is part of the guided project on Coursera.
+For day 2, I worked on a project that focuses on extracting insights related to bank customers and clustering the customers into different segments. The work is part of a guided project on Coursera.
 
-The code for the project could be found in my Github repository : 
+The complete code could be found in my Github repository : 
 [unsupervised-machine-learning-for-customer-segmentation](https://github.com/adelzaitri/unsupervised-machine-learning-for-customer-segmentation) 
 
 Why
 ======
 The business objective is to divide the customers into segments that could be reached out to with different marketing campaigns.
 
-The obtained results are 5 clusters.
+
+Results
+========
+The obtained results from the application of Machine Learning on the dataset gave 5 clusters. These 5 clusters could be used by the bank to customize the marketing campaigns based on the habits of each cluster of customers.
 ![Clusters](/images/posts_img/post1/clusters.png)
 
 
@@ -38,7 +41,7 @@ Project Objectives
 * Apply Principal Component Analysis (PCA) technique to perform dimensionality reduction and data visualization
 * Compile and fit unsupervised machine learning models such as PCA and K-Means to training data
 
-How: Project Tasks
+Project Tasks
 ===========
 
 * Task 1: Understand the problem statement and business case    
