@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Data Science projects and posts"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,9 +12,8 @@ Check out [my Data Science related blog posts](https://datasciencenow.ca/year-ar
 
 ### #66daysofdata
 
-| Day | Item                                                                        |
+| Day | Project                                                                        |
 | ----| --------------------------------------------------------------------------- |
-|  0  | [Applied Data Science With Python, Certificate Completed](https://datasciencenow.ca/datascience/post-0-applied-data-scienece-certificate-and-course/)|
 |  1  | [Unsupervised Machine Learning Project for Customer Segmentation ](https://datasciencenow.ca/datascience/post-1-unsupervised-machine-learning-for-customer-segmentation/)  	 |
-|     |   									                                        |
+|  0  | [Applied Data Science With Python, Certificate Completed](https://datasciencenow.ca/datascience/post-0-applied-data-scienece-certificate-and-course/)|
 

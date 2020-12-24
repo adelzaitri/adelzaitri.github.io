@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Adel Zaitri"
+title                    : "DataScienceNow.ca"
 title_separator          : "-"
-name                     : &name "Adel Zaitri"
-description              : &description "personal website"
+name                     : &name "DataScienceNow.ca"
+description              : &description "portfolio website"
 url                      : https://datasciencenow.ca # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "adelzaitri.github.io"
+repository               : "datasciencenow.ca"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Adel Zaitri"
   avatar           : "profile.jpg"
-  bio              : "Software Engineer | Data Science"
+  bio              : "Software Engineer | Data Science | Prediction and Optimization"
   location         : "Montreal, Quebec"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
