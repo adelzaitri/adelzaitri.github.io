@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 1: Unsupervised Machine Learning Project for Customer Segmentation"
+title:  "Day 3: "
 header:
   teaser: "/posts_img/post1/features_heatmap.png"
 categories: 
@@ -13,7 +13,7 @@ What
 ======
 This is part of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
 
-For day 1, I worked on a clustering project; extracting insights related to bank customers and clustering the customers into different segments.
+For day 2, I worked on a project that focuses on extracting insights related to bank customers and clustering the customers into different segments. The work is part of a guided project on Coursera.
 
 The complete code could be found in my Github repository : 
 [unsupervised-machine-learning-for-customer-segmentation](https://github.com/adelzaitri/unsupervised-machine-learning-for-customer-segmentation) 
