@@ -14,8 +14,8 @@ tags:
   - Image Classifier
 
 ---
-What
-======
+
+
 This is part of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
 
 For day 2, I worked on creating a Convolutional Neural Network to classify X-ray images into COVID19 images or not.
@@ -23,7 +23,7 @@ For day 2, I worked on creating a Convolutional Neural Network to classify X-ray
 The complete code could be found in my Github repository : 
 [classification-of-covid19-using-chest-xray-images-in-keras](https://github.com/adelzaitri/classification-of-covid19-using-chest-xray-images-in-keras) 
 
-Why
+Project Objectives:
 ======
 The objective of the work is educational, the goal is to practice creating a Convolutional Neural Network with Keras and Tensorflow.
 

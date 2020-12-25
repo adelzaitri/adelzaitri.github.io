@@ -10,20 +10,19 @@ tags:
   - datascience
 ---
 
-What
-======
+
 This is the start of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
 
-For day 0, I am happy to have completed the Applied Data Science with Python Specialization from the University of Michigan. I started the taking the courses in August 2020
+For day 0, I am happy to have completed the Applied Data Science with Python Specialization from the University of Michigan. I started the courses in August 2020 and finished the specialization by completing the last of the assignments.
 
-Why
+Goal
 ======
 The goal of the challenge is to gain further knowledge towards becoming a Data Scientist.
 
 
 ![Applied Data Science with Python Specialization Certificate](/images/certificate_applied_data_science_with_python.jpg)
 
-How
+Courses completed
 ======
 The specialization's 5 courses, hosted on Coursera platform, offer a good start for Data Science topics.
 

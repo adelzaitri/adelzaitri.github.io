@@ -9,18 +9,15 @@ tags:
   - 66daysofdata
   - datascience
 ---
-What
-======
+
 This is part of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
 
 For day 1, I worked on a clustering project; extracting insights related to bank customers and clustering the customers into different segments.
 
+The business objective is to divide the customers into segments that could be reached out to with different marketing campaigns.
+
 The complete code could be found in my Github repository : 
 [unsupervised-machine-learning-for-customer-segmentation](https://github.com/adelzaitri/unsupervised-machine-learning-for-customer-segmentation) 
-
-Why
-======
-The business objective is to divide the customers into segments that could be reached out to with different marketing campaigns.
 
 
 Results

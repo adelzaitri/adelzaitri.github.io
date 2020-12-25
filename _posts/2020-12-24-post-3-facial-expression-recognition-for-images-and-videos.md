@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 3: "
+title:  "Day 3: Facial Expression Recognition with Keras"
 header:
   teaser: "/posts_img/post1/features_heatmap.png"
 categories: 
