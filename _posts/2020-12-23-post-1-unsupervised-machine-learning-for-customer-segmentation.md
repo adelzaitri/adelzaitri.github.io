@@ -6,11 +6,13 @@ header:
 categories: 
   - datascience
 tags:
-  - 66daysofdata
-  - datascience
+  - Data Science
+  - k-means
+  - Scikit-Learn
+  - Principal Component Analysis
 ---
 
-This is part of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
+This is part of the #DailyDataScience challenge. The challenge consists of an emersion into data and Data Science related projects.
 
 For day 1, I worked on a clustering project; extracting insights related to bank customers and clustering the customers into different segments.
 

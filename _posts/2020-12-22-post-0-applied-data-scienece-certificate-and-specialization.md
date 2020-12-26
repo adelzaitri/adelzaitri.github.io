@@ -6,14 +6,13 @@ header:
 categories: 
   - datascience
 tags:
-  - 66daysofdata
-  - datascience
+  - Data Science
 ---
 
 
-This is the start of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
+This is part of the #DailyDataScience challenge. The challenge consists of an emersion into data and Data Science related projects.
 
-For day 0, I am happy to have completed the Applied Data Science with Python Specialization from the University of Michigan. I started the courses in August 2020 and finished the specialization by completing the last of the assignments.
+For day 0, I am happy to have completed the Applied Data Science with Python Specialization from the University of Michigan. I started the courses in August 2020 and finished the specialization by completing the last of the assignments. The specialization took about 5 months to complete. 
 
 Goal
 ======

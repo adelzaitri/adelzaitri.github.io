@@ -6,17 +6,17 @@ header:
 categories: 
   - datascience
 tags:
-  - 66daysofdata
   - classification
   - Convolutional Neural Networks
   - TensorFlow
   - Deep Learning
   - Image Classifier
+  - Data Science
 
 ---
 
 
-This is part of the #66daysofdata challenge. The challenge consists of an emersion into data and Data Science related projects throughout the next 66 days.
+This is part of the #DailyDataScience challenge. The challenge consists of an emersion into data and Data Science related projects.
 
 For day 2, I worked on creating a Convolutional Neural Network to classify X-ray images into COVID19 images or not.
 
