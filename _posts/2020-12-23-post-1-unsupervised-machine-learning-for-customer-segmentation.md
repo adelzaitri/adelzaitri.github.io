@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 1: Unsupervised Machine Learning Project for Customer Segmentation"
+title:  "Post #1: Unsupervised Machine Learning Project for Customer Segmentation"
 header:
   teaser: "/posts_img/post1/features_heatmap.png"
 categories: 

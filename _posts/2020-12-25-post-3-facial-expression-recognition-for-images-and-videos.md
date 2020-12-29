@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 3: Facial Expression Recognition for Images and Videos with Keras"
+title:  "Post #3: Facial Expression Recognition for Images and Videos with Keras"
 header:
   teaser: "/posts_img/post3/result-express-recog.jpg"
 categories: 

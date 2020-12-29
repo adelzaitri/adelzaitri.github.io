@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 2: Classification of COVID19 Chest X-ray Images using Convolutional Neural Network with Keras and Tensorflow"
+title:  "Post #2: Classification of COVID19 Chest X-ray Images using Convolutional Neural Network with Keras and Tensorflow"
 header:
   teaser: "/posts_img/post2/sample_data.png"
 categories: 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Day 0: Applied Data Science With Python, Certificate Completed"
+title:  "Post #0: Applied Data Science With Python, Certificate Completed"
 header:
   teaser: "certificate_applied_data_science_with_python.jpg"
 categories: 

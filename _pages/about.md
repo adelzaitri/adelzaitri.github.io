@@ -10,7 +10,7 @@ redirect_from:
 
 Check out [my Data Science related blog posts](https://datasciencenow.ca/year-archive/). 
 
-### Project Highlights
+### Highlights of Projects
 
 |  Project                                                                           | Skills Applied                 |
 | ---------------------------------------------------------------------------------- |
@@ -26,7 +26,7 @@ Check out [my Data Science related blog posts](https://datasciencenow.ca/year-ar
 |   [Applied Data Science With Python, Certificate Completed](https://datasciencenow.ca/datascience/post-0-applied-data-scienece-certificate-and-specialization/)  	 | Machine Learning, Text Mining, Social Network Analysis, Python, Plotting, Charting & Data Representation |
 
 
-### #66DaysOfData logs
+### #66DaysOfData and #DailyDataScience logs
 
 | Day | Project                                                                           | Skills Applied                 |
 | ----| --------------------------------------------------------------------------- |
