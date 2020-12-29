@@ -21,9 +21,9 @@ Check out [my Data Science related blog posts](https://datasciencenow.ca/year-ar
 
 ### Certificates
 
-|  Project                                                                           | Skills Applied                 |
+|  Certificate                                                                          | Skills Applied                 |
 | ---------------------------------------------------------------------------------- |
-|   [Applied Data Science With Python, Certificate Completed](https://datasciencenow.ca/datascience/post-0-applied-data-scienece-certificate-and-specialization/)  	 | Machine Learning, Text Mining, Social Network Analysis, Python, Plotting, Charting & Data Representation |
+|   [Applied Data Science With Python Specialization, University of Michigan & Coursera](https://datasciencenow.ca/datascience/post-0-applied-data-scienece-certificate-and-specialization/)  	 | Machine Learning, Text Mining, Social Network Analysis, Python, Plotting, Charting & Data Representation |
 
 
 ### #66DaysOfData and #DailyDataScience logs
